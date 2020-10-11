@@ -1,5 +1,7 @@
 # boilerplate
 
+- Normalize.css use inline-style and `!important` to set `line-height` to 1.15 which considered harmful.
+
 ### Turn on proxy in current terminal
 
 Due to DNS poison, need to use proxy
